@@ -2,7 +2,7 @@
 
 ### Consultor de TI | Professor Acadêmico | Entusiasta de Cloud & Mobile
 
-Sou um profissional de tecnologia apaixonado por resolver problemas complexos e compartilhar conhecimento. Divido meu tempo entre atuar como consultor de TI — ajudando empresas com arquitetura e migração de sistemas — e atuar como professor no ensino superior, onde preparo a próxima geração de desenvolvedores.
+Sou um profissional de tecnologia apaixonado por resolver problemas complexos e compartilhar conhecimento. Divido meu tempo entre atuar como consultor de TI  ajudando empresas com arquitetura e migração de sistemas e atuar como professor no ensino técnico e superior, onde preparo a próxima geração de desenvolvedores.
 
 Quando não estou codando, configurando servidores ou preparando material de aula, você provavelmente vai me encontrar no tatame praticando Jiu-Jitsu 🥋.
 
